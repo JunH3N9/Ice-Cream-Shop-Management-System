@@ -7,11 +7,7 @@ using System.Collections.Specialized;
 using System.Globalization;
 using System.Net.WebSockets;
 using System.Xml.Serialization;
-//==========================================================
-// Student Number : -
-// Student Name : Jun Heng
-// Partner Name : Ming Xuan
-//==========================================================
+ 
 void displayMenu()
 {
     Console.WriteLine("Menu \n=====================\n[1] List all customer \n[2] List all current orders \n[3] Register a new customer \n" +
