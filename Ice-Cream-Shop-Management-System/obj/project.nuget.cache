@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CX7Ni1vQZyrFnj9EvDr4X/PUoYgMzMpzwdxDJwwSmzi9AV/BoShJTTUd+Cz19lZEsFRFA2j1BuntBhllxQ0idg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jun Heng\\Downloads\\S10259970_PRG2Assignment\\S10259970_PRG2Assignment\\Ice-Cream-Shop-Management-System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jun Heng\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Jun Heng\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Jun Heng\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Jun Heng\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
