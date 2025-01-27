@@ -8,9 +8,9 @@ using System.Globalization;
 using System.Net.WebSockets;
 using System.Xml.Serialization;
 //==========================================================
-// Student Number : S10259970K
-// Student Name : Teo Jun Heng
-// Partner Name : Tan Ming Xuan
+// Student Number : -
+// Student Name : Jun Heng
+// Partner Name : Ming Xuan
 //==========================================================
 void displayMenu()
 {
